@@ -4,6 +4,6 @@
 
 - [Programa](programa-biogeografia.pdf)
 
-- [Prácticas](https://github.com/biogeografia-202302/practicas)
+- [Prácticas](https://github.com/biogeografia-202401/practicas)
 
 - [Asignaciones de manuscrito](https://github.com/biogeografia-202302/manuscrito)
